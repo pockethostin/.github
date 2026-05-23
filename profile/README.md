@@ -1,10 +1,10 @@
 <!-- ========================================= -->
-<!--            POCKETHOST ORGANIZATION        -->
+<!--            PocketHost ORGANIZATION        -->
 <!-- ========================================= -->
 
 <div align="center">
 
-# ☁️ PocketHost
+# ☁️ PocketHost.in
 
 ### Build Websites. Launch Businesses. Instantly.
 
@@ -13,8 +13,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://pockethost.in">
-    <img src="https://img.shields.io/badge/🌐_Website-pockethost.in-2563EB?style=for-the-badge&labelColor=ffffff" />
+  <a href="https://PocketHost.in">
+    <img src="https://img.shields.io/badge/🌐_Website-PocketHost.in-2563EB?style=for-the-badge&labelColor=ffffff" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/⚡_Status-Building_Future-0EA5E9?style=for-the-badge&labelColor=ffffff" />
@@ -28,11 +28,11 @@
 
 ---
 
-## ✨ What is PocketHost?
+## ✨ What is PocketHost.in?
 
-**PocketHost** is a futuristic AI-powered platform designed to help anyone launch a professional online business without coding.
+**PocketHost.in** is a futuristic AI-powered platform designed to help anyone launch a professional online business without coding.
 
-From local stores to booking-based businesses, PocketHost transforms simple prompts into fully functional websites — complete with hosting, payments, dashboards, and mobile-first experiences.
+From local stores to booking-based businesses, PocketHost.in transforms simple prompts into fully functional websites — complete with hosting, payments, dashboards, and mobile-first experiences.
 
 > Your business deserves more than templates.  
 > It deserves intelligence.
@@ -49,7 +49,7 @@ We believe the future of the internet should be:
 - 🌐 Accessible to everyone
 - 💼 Built for real businesses
 
-PocketHost exists to remove the technical barrier between ideas and execution.
+PocketHost.in exists to remove the technical barrier between ideas and execution.
 
 ---
 
